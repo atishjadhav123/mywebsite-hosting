@@ -1,0 +1,10 @@
+.env
+node_modules
+
+
+
+# git init
+# git remote add origin https://github.com/atishjadhav123/mywebsite-hosting.git
+# git add .
+# git commit -m "initial setup"
+# git push origin master
